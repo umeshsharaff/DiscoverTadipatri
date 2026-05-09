@@ -1,0 +1,16 @@
+[
+  {
+    "id": "restaurants",
+    "title": "Restaurants",
+    "description": "48 places",
+    "icon": "🍽️",
+    "file": "restaurants.json"
+  },
+  {
+    "id": "schools",
+    "title": "Schools",
+    "description": "23 listings",
+    "icon": "🏫",
+    "file": "schools.json"
+  }
+]
