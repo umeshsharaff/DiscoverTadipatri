@@ -2,15 +2,22 @@
   {
     "id": "restaurants",
     "title": "Restaurants",
-    "description": "48 places",
+    "description": " ",
     "icon": "🍽️",
     "file": "restaurants.json"
   },
   {
     "id": "schools",
     "title": "Schools",
-    "description": "23 listings",
+    "description": " ",
     "icon": "🏫",
     "file": "schools.json"
+  }
+  {
+    "id": "Mechanics",
+    "title": "Mechanics",
+    "description": "",
+    "icon": "🔧",
+    "file": "VehiclesMechanic.json"
   }
 ]
